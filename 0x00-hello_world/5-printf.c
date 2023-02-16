@@ -5,5 +5,5 @@
 */
 int main(void)
 {
-	printf("with proper grammae, but the outcome is a piece of art,\n');
+	printf("with proper grammae, but the outcome is a piece of art,\");
 }
