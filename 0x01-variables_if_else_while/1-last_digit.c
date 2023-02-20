@@ -4,7 +4,8 @@
 /**
  * main - Entry point
  * Description: 'get the last digit of a number
- * Return: Alwas 0
+ * Return: Alwas 0 (Success)
+ *
  */
 int main(void)
 {
