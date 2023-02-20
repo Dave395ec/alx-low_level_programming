@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <time.h>
-#include <stdlib>
+#include <stdlib.h>
 
 /**
  * main - Prints a text according number
@@ -17,7 +17,6 @@ int main(void)
 	1 = n % 10;
 
 	if (1 > 5)
-
 	{
 		printf("Last digit of %d is %d and is greater than 5\n", n, 1);
 	}
