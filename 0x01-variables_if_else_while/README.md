@@ -1,0 +1,1 @@
+Project done during **Full Stack Software Engineerinhg studies** at **ALX School**. It aims to teach about arithmetics operators, relational operators, boolean operators, comments, declaring variables and loops in **C language**.
