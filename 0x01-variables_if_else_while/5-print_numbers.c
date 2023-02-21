@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  * Description: 'print numbers of base 10'
- * Retuern: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
@@ -11,7 +11,7 @@ int main(void)
 
 	for (n = 0; n <= 9; n++)
 	{
-		printf("%d", n);
+		putchar(n + 48);
 	}
 	putchar('\n');
 	return (0);
